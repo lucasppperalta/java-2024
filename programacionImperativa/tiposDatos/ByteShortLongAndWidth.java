@@ -25,5 +25,9 @@ public class ByteShortLongAndWidth {
         // Tipo long 
 
         long valorLong = 3276712313l;
+
+        //SCREAMING_SNAKE_CASE
+        //declaracion de constant e
+        final long ESTA_ES_UNA_CONSTANTE = 3276712313l;
     }
 }
