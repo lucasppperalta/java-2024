@@ -21,5 +21,9 @@ public class ByteShortLongAndWidth {
     
         int minvalueInteger = -2147483648;
         int maxValueInteger = 2147483647;
+
+        // Tipo long 
+
+        long valorLong = 3276712313l;
     }
 }
