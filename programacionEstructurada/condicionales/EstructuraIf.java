@@ -1,4 +1,4 @@
-package programacionEstructurada;
+package programacionEstructurada.condicionales;
 
 public class EstructuraIf {
     public static void main(String[] args) {

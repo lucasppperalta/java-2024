@@ -1,10 +1,10 @@
-package programacionEstructurada;
+package programacionEstructurada.condicionales;
 
 public class EstructuraElseIf {
     public static void main(String[] args) {
         //Las variables booleanas siempre se escriben como forma de pregunta
         
-        boolean esUnDiaDeClases = false;
+        boolean esUnDiaDeClases = true;
         final String DIA = "Viernes";
 
         //if (esUnDiaDeClases) {
@@ -18,8 +18,15 @@ public class EstructuraElseIf {
         }else if(!esUnDiaDeClases){
             System.out.println("Hoy es "+ DIA + " y no hay clases" );
         }else {
-            System.out.println("Hoy es martes por lo que no hay informacion de las clases");
+            System.out.println("Pasamos al else");
+            if(DIA == "Viernes"){
+                System.out.println("Hoy hay clases!");
+            }else if(DIA == "Martes"){
+                System.out.println("Ayer tuvimos clases");
+            }else{
+                System.out.println("no tengo informacion");
+            }
+            
         }
-        //minuto 55:14
     }
 }
