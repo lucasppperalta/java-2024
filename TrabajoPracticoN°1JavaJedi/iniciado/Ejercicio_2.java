@@ -9,7 +9,7 @@ public class Ejercicio_2 {
     int numero2 = 13;
     int resultado = numero1 + numero2;
     var paridad = (resultado % 2 == 0)? "es par":"no es par";
-    System.out.println("El resultado es: " + resultado + " y " + paridad);
+    System.out.println("El resultado es: " + resultado + "y es" + paridad);
     }
     
 }
