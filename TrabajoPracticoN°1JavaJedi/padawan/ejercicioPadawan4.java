@@ -1,4 +1,4 @@
-package trabajo-práctico-nº1-java-jedi.padawan;
+package TrabajoPracticoN°1JavaJedi.padawan;
 
 public class ejercicioPadawan4 {
     public static void main(String[] args) {
