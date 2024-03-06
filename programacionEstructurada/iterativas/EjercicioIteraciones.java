@@ -10,7 +10,7 @@ public class EjercicioIteraciones {
          * 
          * 
          */
-        int numero = 220;  
+        int numero = 773;  
         if (numero == 2) {
             System.out.println(numero + " Es un valor primo");
         }else{
