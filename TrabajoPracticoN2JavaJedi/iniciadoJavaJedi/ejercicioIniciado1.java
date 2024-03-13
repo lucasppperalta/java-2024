@@ -1,4 +1,4 @@
-package iniciadoJavaJedi;
+package TrabajoPracticoN2JavaJedi.iniciadoJavaJedi;
 
 public class ejercicioIniciado1 {
     public static void main(String[] args) {
